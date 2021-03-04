@@ -4,12 +4,15 @@
  * Handle top-level menu option
  */
 #pragma once
-#include "UIState.h"
+#include "NumberCollectorState.h"
 
-class SetPHSetPoint : public UIState {
+class SetPHSetPoint : public NumberCollectorState {
 public:
-  void handleKey(char key);
   const char *prompt() {
     return "Set pH Set Point";
   };
+  getExpectedDigits() {
+    return 4;
+  }
+  void setValue(double value);
 };
