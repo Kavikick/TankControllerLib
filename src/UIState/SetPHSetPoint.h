@@ -6,12 +6,12 @@
 #pragma once
 #include "NumberCollectorState.h"
 
-class SetPHSetPoint : public NumberCollectorState {
+class SetPHSetPoint : public NumCollectorState {
 public:
   const char *prompt() {
     return "Set pH Set Point";
   };
-  getExpectedDigits() {
+  int getExpectedDigits() {
     return 4;
   }
   void setValue(double value);

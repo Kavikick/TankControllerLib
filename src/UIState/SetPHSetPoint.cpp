@@ -4,7 +4,7 @@
 
 #include "SetPHSetPoint.h"
 
-#include "../EEPROM_TC.h"
+#include "../Devices/EEPROM_TC.h"
 #include "MainMenu.h"
 
 void SetPHSetPoint::setValue(double value) {
