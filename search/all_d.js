@@ -1,11 +1,14 @@
 var searchData=
 [
-  ['none_138',['None',['../namespaceTankController.html#a41f782831b8618f317c9023e7b2c7c59',1,'TankController']]],
-  ['now_139',['now',['../classDateTime__TC.html#ae1b05da93afda7c496482990198b14e1',1,'DateTime_TC']]],
-  ['num_5fserial_5fports_140',['NUM_SERIAL_PORTS',['../libTC_8cpp.html#a4b6a08f7e940c3b9f5129fed463110fd',1,'libTC.cpp']]],
-  ['numattempteddhcpreleases_141',['numAttemptedDHCPReleases',['../classEthernet__TC.html#a230d8256b20ad589bf581443fc207271',1,'Ethernet_TC']]],
-  ['numbercollectorstate_2ecpp_142',['NumberCollectorState.cpp',['../src_2UIState_2NumberCollectorState_8cpp.html',1,'(Global Namespace)'],['../test_2NumberCollectorState_8cpp.html',1,'(Global Namespace)']]],
-  ['numbercollectorstate_2eh_143',['NumberCollectorState.h',['../NumberCollectorState_8h.html',1,'']]],
-  ['numcollectorstate_144',['NumCollectorState',['../classNumCollectorState.html',1,'NumCollectorState'],['../classNumCollectorState.html#afd924549c3f5ced17a0fcc7a17106cb8',1,'NumCollectorState::NumCollectorState()']]],
-  ['numdigits_145',['numDigits',['../classNumCollectorState.html#a6b9549d36046ca6bfb91893c227ec265',1,'NumCollectorState']]]
+  ['name_184',['name',['../classSeeDeviceUptime.html#acd9fea4b78c67c7227e622f6fc68ff2c',1,'SeeDeviceUptime::name()'],['../classWait.html#a1ca8a7a7db7a2b1d3432fc609f01340b',1,'Wait::name()'],['../classUIState.html#a250672e847e2630a82af13320dab7978',1,'UIState::name()'],['../classTemperatureCalibration.html#a740519f850d23dd7d10aed31840990eb',1,'TemperatureCalibration::name()'],['../classSetTime.html#ab783d32a78f08cd3e1bfc6828a9cf134',1,'SetTime::name()'],['../classSetTempSetPoint.html#a4efb1690a1add4f205d3b46c559a81f0',1,'SetTempSetPoint::name()'],['../classSetTankID.html#a8691e69d2042b58f5195b311c5c30f7b',1,'SetTankID::name()'],['../classSetPHSetPoint.html#a652ba6d8498192b83b249c3d05b3510e',1,'SetPHSetPoint::name()'],['../classSetGoogleSheetInterval.html#af20285ef9df4f1d237167e235a7d3cb6',1,'SetGoogleSheetInterval::name()'],['../classSetChillOrHeat.html#aacd70781c4c2a9d5cce46f1be8222946',1,'SetChillOrHeat::name()'],['../classSeeTankID.html#a229b366a2fc502bb4cdbfe516900152e',1,'SeeTankID::name()'],['../classSeePIDConstants.html#a5e82acf5e4009321d5bb145acb88454a',1,'SeePIDConstants::name()'],['../classSeeDeviceAddress.html#a8c3e5691c071d667341133e90a437e47',1,'SeeDeviceAddress::name()'],['../classResetLCDScreen.html#a95bc4ae3511c69d8fa601e6156f593a1',1,'ResetLCDScreen::name()'],['../classPIDTuningMenu.html#ae916dcfee7ba7a3e6d359d91e997f167',1,'PIDTuningMenu::name()'],['../classPHCalibration.html#a795dc2b13ad8e9ec8a171e4903821d02',1,'PHCalibration::name()'],['../classMainMenu.html#a8d36189349cb25d9cbc442c80fbf26e9',1,'MainMenu::name()'],['../classEnablePID.html#aabd19b650d4ce93d70a5af0940070b94',1,'EnablePID::name()'],['../classCalibrationManagement.html#a12ccac9f5cdfd39e9b498de5140cdf97',1,'CalibrationManagement::name()']]],
+  ['nextstate_185',['nextState',['../classTankControllerLib.html#afe9e51e78094c40ef903c7072e53a5aa',1,'TankControllerLib']]],
+  ['none_186',['None',['../namespaceTankController.html#a41f782831b8618f317c9023e7b2c7c59',1,'TankController']]],
+  ['now_187',['now',['../classDateTime__TC.html#ae1b05da93afda7c496482990198b14e1',1,'DateTime_TC']]],
+  ['num_5fserial_5fports_188',['NUM_SERIAL_PORTS',['../libTC_8cpp.html#a4b6a08f7e940c3b9f5129fed463110fd',1,'libTC.cpp']]],
+  ['num_5fvalues_189',['NUM_VALUES',['../classSetTime.html#ad0f9223ceb35b0403ba3d17515239658',1,'SetTime']]],
+  ['numattempteddhcpreleases_190',['numAttemptedDHCPReleases',['../classEthernet__TC.html#a230d8256b20ad589bf581443fc207271',1,'Ethernet_TC']]],
+  ['numbercollectorstate_2ecpp_191',['NumberCollectorState.cpp',['../test_2NumberCollectorState_8cpp.html',1,'(Global Namespace)'],['../src_2UIState_2NumberCollectorState_8cpp.html',1,'(Global Namespace)']]],
+  ['numbercollectorstate_2eh_192',['NumberCollectorState.h',['../NumberCollectorState_8h.html',1,'']]],
+  ['numcollectorstate_193',['NumCollectorState',['../classNumCollectorState.html#a01afcb5b7abc78c4ebdaa7cbc9eb9fd1',1,'NumCollectorState::NumCollectorState()'],['../classNumCollectorState.html',1,'NumCollectorState']]],
+  ['numdigits_194',['numDigits',['../classNumCollectorState.html#a6b9549d36046ca6bfb91893c227ec265',1,'NumCollectorState']]]
 ];
